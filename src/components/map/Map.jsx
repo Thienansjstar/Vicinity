@@ -1,6 +1,5 @@
 import { Component } from 'react';
 import { Map, GoogleApiWrapper } from 'google-maps-react'
-import Nav from '../navbar/Nav';
 class MapContainer extends Component {
 
 
