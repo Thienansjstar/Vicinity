@@ -1,0 +1,37 @@
+.header{
+height: 100rem;
+}
+
+.search{
+width: 94%;
+border: .2px solid var(--color-bg-variant);
+border-radius: 4px;
+height: 2rem;
+margin-top: 1rem;
+margin-left: 1rem;
+margin-right: 1rem;
+}
+
+.nav-items{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    padding: .4rem;
+    background-color: var(--color-bg);
+    border-radius: 1rem;
+    font-size: 1rem;
+    padding-left: .7rem;
+    padding-right: .7rem;
+}
+.nav-items:hover{
+    background-color: var(--color-primary );
+}
+
+
+.numberevents{
+    margin-left: 1rem;
+}
+.logoheader{
+    margin-top:2rem;
+    margin-left: 1rem;
+}

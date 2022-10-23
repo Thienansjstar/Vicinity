@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Inter');
+
+.forms {
+    margin-top: 7rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    margin-left: 3rem;
+    margin-top: 1.5rem;
+}
+
+.input, 
+.textarea{
+    width: 90%;
+    padding: .5rem;
+    border-radius: .5rem;
+    background: transparent;
+
+    
+    border: 2px solid var(--color-primary-variant);
+    resize: none;
+    color: var(--color-white);
+}
