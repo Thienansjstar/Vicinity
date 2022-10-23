@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vicinity/static/css/main.08543ec1.css",
+    "main.js": "/vicinity/static/js/main.aa1106ef.js",
+    "static/media/7.jpg": "/vicinity/static/media/7.27e7097c184914bd74c5.jpg",
+    "static/media/9.jpg": "/vicinity/static/media/9.cbb40e6b2b10f1d14595.jpg",
+    "static/media/1.jpg": "/vicinity/static/media/1.def13a4e9289d15c9e2f.jpg",
+    "static/media/5.jpg": "/vicinity/static/media/5.c76a9abd5f8fa4a721ec.jpg",
+    "static/media/10.jpg": "/vicinity/static/media/10.14925a6e87f236cc0f70.jpg",
+    "static/media/4.jpg": "/vicinity/static/media/4.b4b00f4dd28518cb0f6f.jpg",
+    "static/media/6.jpg": "/vicinity/static/media/6.98ebfe324a93942460e3.jpg",
+    "static/media/8.jpg": "/vicinity/static/media/8.2b270e90ca73494f1d36.jpg",
+    "static/media/3.jpg": "/vicinity/static/media/3.bc4f19b46f29dc64e7df.jpg",
+    "static/media/Ellipse 2.jpg": "/vicinity/static/media/Ellipse 2.40d910e3e34b2970726a.jpg",
+    "index.html": "/vicinity/index.html",
+    "main.08543ec1.css.map": "/vicinity/static/css/main.08543ec1.css.map",
+    "main.aa1106ef.js.map": "/vicinity/static/js/main.aa1106ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08543ec1.css",
+    "static/js/main.aa1106ef.js"
+  ]
+}
