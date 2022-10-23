@@ -34,15 +34,15 @@ const Events = () => {
            <div className='image'><img className="img" src={IMG3} alt='e'/></div> 
             <div className='items'>
             <h3 className="date">Thursday, Oct 27, 2022</h3>
-            <h1 className="eventname">Dog Park Hang Out</h1>
-            <h3 className='location'>Dog Wood Play Park</h3></div>
+            <h1 className="eventname">International District Hangout</h1>
+            <h3 className='location'>International District</h3></div>
         </div>        
         <div className="Eventlisting">
            <div className='image'><img className="img" src={IMG4} alt='e'/></div> 
             <div className='items'>
             <h3 className="date">Friday, October 28, 2022</h3>
-            <h1 className="eventname">International District Hangout</h1>
-            <h3 className='location'>International District</h3></div>
+            <h1 className="eventname">Dog Park Hang Out</h1>
+            <h3 className='location'>Dog Wood Play Park</h3></div>
         </div>        
         <div className="Eventlisting">
            <div className='image'><img className="img" src={IMG5} alt='e'/></div> 
