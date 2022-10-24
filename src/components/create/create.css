@@ -27,6 +27,11 @@
     padding: 1rem;
     border-radius: 1rem;
     background-color: var(--color-primary);
+    font-size: 1.1rem;
+}
+.postbutton:hover{
+    border: 2px solid var(--color-primary);
+    background: transparent;
 }
 
 .datetype{

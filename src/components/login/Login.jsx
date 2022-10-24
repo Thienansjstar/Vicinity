@@ -24,7 +24,7 @@ const Login = () => {
            </div>
         <div className="buttons">
               <div className="user">
-                <input className= "input1" type = "text" placeholder='Email/Username' required></input>
+                <input className= "input1" type = "email" placeholder='Email/Username' required></input>
                 <input className="input1" type="password" placeholder="Passcode" required>
                   </input></div>
         </div>

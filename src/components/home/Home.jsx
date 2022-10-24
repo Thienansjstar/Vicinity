@@ -10,9 +10,11 @@ const Home = () => {
               <img src={LOGO1} alt="" className="logoheader" />
               </div>
         <div className='header-items'>
-            <div className='search'> 
-                <input type="text" placeholder='   Search For....'/>
-            </div>
+            <form className='searchbar'>
+                 <input type="text" name="search" placeholder="Search.."/>
+            </form>
+
+
            
                 <nav className='filters'>
                     <button className="nav-items">Community

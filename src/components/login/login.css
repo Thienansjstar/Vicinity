@@ -33,7 +33,7 @@
 
 .user{
     padding: 1rem;
-    text-align: left;
+   margin-left: -2rem;
     font-size: 1.5rem;
     margin-top: -1rem;
 }
@@ -69,7 +69,11 @@
     font-family: 'Inter';
     font-size: 1rem;
   }
-  
+
+  .logout:hover{
+        background-color: transparent;
+        border:2px solid var(--color-primary) ;
+  }
   .logout1{
       display:flex;
   }

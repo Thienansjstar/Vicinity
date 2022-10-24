@@ -14,8 +14,11 @@ margin: 1rem;
     grid-template-columns: 1fr 3fr;
     gap: 1rem;
 }
+.Eventlisting:hover{
+    background-color: var(--color-primary);
+    
+}
 .items{
-  
     line-height:200%;
 }
 .img{
@@ -24,11 +27,12 @@ margin: 1rem;
     object-fit: cover;
     border-radius: 1rem; 
 }
+
 .date{
     font-size: .8rem;
     color: var(--color-bg-variant);
-
 }
+
 .eventname{
 font-size: 1.7rem;
 }
