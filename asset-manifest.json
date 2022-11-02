@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.015b454d.css",
-    "main.js": "/static/js/main.826bc418.js",
-    "static/media/7.jpg": "/static/media/7.27e7097c184914bd74c5.jpg",
-    "static/media/9.jpg": "/static/media/9.cbb40e6b2b10f1d14595.jpg",
-    "static/media/1.jpg": "/static/media/1.def13a4e9289d15c9e2f.jpg",
-    "static/media/5.jpg": "/static/media/5.c76a9abd5f8fa4a721ec.jpg",
-    "static/media/10.jpg": "/static/media/10.14925a6e87f236cc0f70.jpg",
-    "static/media/4.jpg": "/static/media/4.b4b00f4dd28518cb0f6f.jpg",
-    "static/media/6.jpg": "/static/media/6.98ebfe324a93942460e3.jpg",
-    "static/media/8.jpg": "/static/media/8.2b270e90ca73494f1d36.jpg",
-    "static/media/3.jpg": "/static/media/3.bc4f19b46f29dc64e7df.jpg",
-    "static/media/Ellipse 2.jpg": "/static/media/Ellipse 2.40d910e3e34b2970726a.jpg",
-    "index.html": "/index.html",
-    "main.015b454d.css.map": "/static/css/main.015b454d.css.map",
-    "main.826bc418.js.map": "/static/js/main.826bc418.js.map"
+    "main.css": "/Vicinity/static/css/main.015b454d.css",
+    "main.js": "/Vicinity/static/js/main.35b9076b.js",
+    "static/media/7.jpg": "/Vicinity/static/media/7.27e7097c184914bd74c5.jpg",
+    "static/media/9.jpg": "/Vicinity/static/media/9.cbb40e6b2b10f1d14595.jpg",
+    "static/media/1.jpg": "/Vicinity/static/media/1.def13a4e9289d15c9e2f.jpg",
+    "static/media/5.jpg": "/Vicinity/static/media/5.c76a9abd5f8fa4a721ec.jpg",
+    "static/media/10.jpg": "/Vicinity/static/media/10.14925a6e87f236cc0f70.jpg",
+    "static/media/4.jpg": "/Vicinity/static/media/4.b4b00f4dd28518cb0f6f.jpg",
+    "static/media/6.jpg": "/Vicinity/static/media/6.98ebfe324a93942460e3.jpg",
+    "static/media/8.jpg": "/Vicinity/static/media/8.2b270e90ca73494f1d36.jpg",
+    "static/media/3.jpg": "/Vicinity/static/media/3.bc4f19b46f29dc64e7df.jpg",
+    "static/media/Ellipse 2.jpg": "/Vicinity/static/media/Ellipse 2.40d910e3e34b2970726a.jpg",
+    "index.html": "/Vicinity/index.html",
+    "main.015b454d.css.map": "/Vicinity/static/css/main.015b454d.css.map",
+    "main.35b9076b.js.map": "/Vicinity/static/js/main.35b9076b.js.map"
   },
   "entrypoints": [
     "static/css/main.015b454d.css",
-    "static/js/main.826bc418.js"
+    "static/js/main.35b9076b.js"
   ]
 }
